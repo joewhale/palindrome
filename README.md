@@ -20,7 +20,7 @@ Or install it yourself as:
 
     $ gem install joewhale_palindrome
 
-## Usage
+## Usage 
 
 TODO: Write usage instructions here
 
